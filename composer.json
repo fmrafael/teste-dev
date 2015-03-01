@@ -1,0 +1,9 @@
+{
+    "require": {
+        "linkedinapi/linkedin": "dev-master",
+
+  "happyr/linkedin-api-client": "dev-master"}
+
+}
+
+
